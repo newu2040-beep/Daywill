@@ -1,0 +1,6 @@
+{
+  "name": "DAYWILL",
+  "description": "A beautiful mobile-first productivity and calendar app with Pomodoro focus timer, daily planning, festival tracker, and productivity insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
